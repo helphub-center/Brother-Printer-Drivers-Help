@@ -6,7 +6,7 @@ Get the Latest Brother Printer Drivers and Software for Smooth Printing
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://support.brother.com" style="background-color:#E60012; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://link72.com/?16PdXoJYcxJueV2ezMkG4DJYki3i2djrgN17cJOeTqwEliRhB28y1DNVrk6pS2pTglSe6QdBl4po" style="background-color:#E60012; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             ⬇ Download Brother Drivers
         </a>
     </div>
@@ -77,10 +77,10 @@ Top 2 Brother Printer Models
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://support.brother.com" style="background-color:#E60012; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?16PdXoJYcxJueV2ezMkG4DJYki3i2djrgN17cJOeTqwEliRhB28y1DNVrk6pS2pTglSe6QdBl4po" style="background-color:#E60012; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Brother Support Center
         </a>
-        <a href="https://support.brother.com/g/b/downloadtop.aspx" style="background-color:#333333; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://link72.com/?16PdXoJYcxJueV2ezMkG4DJYki3i2djrgN17cJOeTqwEliRhB28y1DNVrk6pS2pTglSe6QdBl4po" style="background-color:#333333; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Drivers & Software
         </a>
         <a href="https://www.brother-usa.com/support" style="background-color:#555555; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
