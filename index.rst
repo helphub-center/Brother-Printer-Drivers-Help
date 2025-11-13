@@ -1,7 +1,7 @@
-How to Download and Install Brother Printer Drivers Windows and Mac ?
-=====================================================================
+How to Download and Install Brother Printer Drivers (Windows & Mac)
+===================================================================
 
-Get the Latest Drivers and Software for Your Brother Printer
+Get the Latest Brother Printer Drivers and Software for Smooth Printing
 
 .. raw:: html
 
@@ -11,83 +11,68 @@ Get the Latest Drivers and Software for Your Brother Printer
         </a>
     </div>
 
-To download and install Brother printer drivers, visit the official `Brother Support website <https://support.brother.com>`_, search for your printer model, and choose your operating system. Download the correct driver package, run the installer, and follow the on-screen steps to complete setup for smooth printing and scanning.
+To download and install Brother printer drivers, visit the official `Brother Support website <https://support.brother.com>`_, search for your printer model, and choose your operating system. Download the correct driver package, run the installer, and follow the simple on-screen steps to complete the setup.
 
-Step-by-step to Download Brother Printer Drivers
+Step-by-Step to Download Brother Printer Drivers
 ------------------------------------------------
 
-**On Mac:**
+**On Mac (Easy Steps):**
 
-1. Open your web browser.  
-2. Go to `https://support.brother.com <https://support.brother.com>`_.  
-3. In the search box, type your printer model name (example: **MFC-J1010DW**).  
-4. Click on your printer model from the list.  
-5. Choose your **Operating System → macOS** and then select your macOS version (like **macOS Ventura** or **Sonoma**).  
-6. Scroll down and find **“Full Software Package”** or **“Printer Driver.”**  
-7. Click **Download.**  
-8. Once downloaded, open the **.dmg** file.  
-9. Double-click on the Installer (**.pkg**) inside it.  
-10. Follow the steps on screen → **Continue → Agree → Install.**  
-11. After it finishes, open **System Settings → Printers & Scanners → + (Add Printer)**.  
-12. Select your Brother printer → click **Add.** ✅
+1. Go to `support.brother.com <https://support.brother.com>`_  
+2. Search your printer model (e.g., **MFC-J1010DW**)  
+3. Select your **macOS version**  
+4. Click **Download Full Software Package**  
+5. Open the **.dmg → .pkg** file and **Install**  
+6. Go to **Printers & Scanners → Add Printer** ✅  
 
-**On Windows:**
+**On Windows (Easy Steps):**
 
-1. Open your browser.  
-2. Go to `https://support.brother.com <https://support.brother.com>`_.  
-3. Type your printer model number in the search bar (example: **DCP-T820DW**).  
-4. Click on your printer from the results.  
-5. Choose **Operating System → Windows**, then select your version (**Windows 10 / 11**).  
-6. Find and click **“Full Driver & Software Package.”**  
-7. Click **Download** and wait for it to finish.  
-8. Open your Downloads folder → double-click the file (**.exe**).  
-9. Click **Run**, then follow on-screen steps: **Next → Agree → Install.**  
-10. Choose how you’ll connect the printer (**USB / Wireless / Network**).  
-11. Once done, click **Finish → Print a test page.** ✅
+1. Visit `support.brother.com <https://support.brother.com>`_  
+2. Search your printer model (e.g., **DCP-T820DW**)  
+3. Select your **Windows version**  
+4. Click **Download Full Driver & Software Package**  
+5. Open the **.exe file → Run → Install**  
+6. Connect your printer (USB / Wi-Fi) and **Print a test page** ✅  
 
-Step-by-step to Install Brother Printer Drivers
+Step-by-Step to Install Brother Printer Drivers
 -----------------------------------------------
 
-**On Mac:**
+**On Mac (Easy Steps):**
 
-::
+1. Download the **.dmg** file from `support.brother.com <https://support.brother.com>`_  
+2. Open the **.dmg**, then double-click the **.pkg installer**  
+3. Click **Continue → Agree → Install**  
+4. Go to **Printers & Scanners → + → Add Printer**  
+5. Print or scan a test page to confirm ✅  
 
-   1. Download the .dmg from support.brother.com
-   2. Double-click the .dmg, then double-click the .pkg installer
-   3. Click Continue → Agree → Install, enter your admin password if asked
-   4. After install: System Settings → Printers & Scanners → + → Select your Brother printer → Add
-   5. Print/scan a test to confirm
+**On Windows (Easy Steps):**
 
-**On Windows:**
-
-::
-
-   1. Download the Full Driver & Software Package (.exe or .zip) from support.brother.com
-   2. Open the downloaded file (extract if .zip), then double-click the .exe
-   3. Run the installer: Next → Agree → Install (use Run as administrator if needed)
-   4. Choose connection type (USB / Wireless / Network) and follow prompts
-   5. Finish and print a test page to confirm
+1. Download the **Full Driver & Software Package (.exe)**  
+2. Open the file and click **Run → Next → Install**  
+3. Choose your connection type (**USB / Wireless / Network**)  
+4. Follow on-screen prompts to finish installation  
+5. Print a test page to confirm ✅  
 
 Top 2 Brother Printer Models
 ----------------------------
 
 **1. Brother HL-L2350DW**
 
-- Mono laser printer (black & white only) with wireless connectivity and automatic two-sided (duplex) printing.  
-- Print speed up to ~30 ppm, input tray ~250 sheets.  
-- Supports Windows (7/8/10/11) and macOS (10.8.x or higher).  
-- **Why pick it?** Great for fast, reliable black & white printing.  
-- **Driver Tip:** Always download the **Full Driver & Software Package** for your operating system.
+- Mono laser printer (black & white) with wireless and duplex printing  
+- Print speed: up to 30 ppm | Tray: 250 sheets  
+- Compatible with Windows (7/8/10/11) and macOS (10.8 or higher)  
+- **Best for:** Fast, reliable black-and-white printing  
+- **Tip:** Download the **Full Driver & Software Package** for your OS  
 
 **2. Brother DCP-T820DW**
 
-- Ink-tank all-in-one printer (print, scan, copy) with Wi-Fi, Wi-Fi Direct, and duplex printing.  
-- High-resolution colour printing (up to 1200 × 6000 dpi), input ~150 sheets.  
-- Supports Windows and macOS (some utilities may use AirPrint or iPrint&Scan).  
-- **Why pick it?** Ideal for colour printing, scanning, and low-cost ink use.  
-- **Driver Tip:** Select the correct OS and download the full software package for this model.
+- Ink-tank all-in-one (print, scan, copy) with wireless & duplex printing  
+- High-resolution color printing up to 1200 × 6000 dpi  
+- Compatible with Windows & macOS  
+- **Best for:** Affordable color printing and scanning  
+- **Tip:** Select the right OS and download the full package for best performance  
 
-✅ **Quick Links:**
+✅ **Quick Links**
 
 .. raw:: html
 
